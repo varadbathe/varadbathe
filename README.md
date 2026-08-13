@@ -340,23 +340,149 @@ A responsive Flutter-based e-commerce application featuring a dynamic product ca
 
 # 🐍 Contribution Journey
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/varadbathe/varadbathe/output/github-snake-dark.svg"
-  />
+<svg xmlns="http://www.w3.org/2000/svg" width="888" height="158" viewBox="0 0 888 158" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif">
 
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/varadbathe/varadbathe/output/github-snake.svg"
-  />
+<style>
+  text.lbl {
+    fill:#7d8590;
+    font-size:13px;
+    font-weight:600;
+  }
 
-  <img
-    src="https://raw.githubusercontent.com/varadbathe/varadbathe/output/github-snake.svg"
-    alt="GitHub Contribution Snake"
-    width="100%"
-  />
-</picture>
+  text.total {
+    fill:#e6edf3;
+    font-size:15px;
+    font-weight:700;
+  }
+
+  .c {
+    transform-box:fill-box;
+    transform-origin:center;
+    opacity:0;
+    animation:pop 0.55s ease-out both;
+  }
+
+  .g {
+    animation:
+      pop 0.55s ease-out both,
+      flash 0.7s ease-out both;
+  }
+
+  @keyframes pop {
+    0% {
+      opacity:0;
+      transform:scale(.2);
+    }
+
+    60% {
+      opacity:1;
+      transform:scale(1.1);
+    }
+
+    100% {
+      opacity:1;
+      transform:scale(1);
+    }
+  }
+
+  @keyframes flash {
+    0% {
+      filter:brightness(2.4);
+    }
+
+    45% {
+      filter:brightness(2.4);
+    }
+
+    100% {
+      filter:brightness(1);
+    }
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .c {
+      opacity:1 !important;
+      animation:none !important;
+    }
+  }
+</style>
+
+<rect width="888" height="158" fill="none"/>
+
+<!-- Months -->
+<text class="lbl" x="34" y="16">Aug</text>
+<text class="lbl" x="98" y="16">Sep</text>
+<text class="lbl" x="162" y="16">Oct</text>
+<text class="lbl" x="226" y="16">Nov</text>
+<text class="lbl" x="306" y="16">Dec</text>
+<text class="lbl" x="370" y="16">Jan</text>
+<text class="lbl" x="434" y="16">Feb</text>
+<text class="lbl" x="498" y="16">Mar</text>
+<text class="lbl" x="578" y="16">Apr</text>
+<text class="lbl" x="642" y="16">May</text>
+<text class="lbl" x="722" y="16">Jun</text>
+<text class="lbl" x="786" y="16">Jul</text>
+<text class="lbl" x="850" y="16">Aug</text>
+
+<!-- Weekdays -->
+<text class="lbl" x="2" y="51">Mon</text>
+<text class="lbl" x="2" y="83">Wed</text>
+<text class="lbl" x="2" y="115">Fri</text>
+
+<!-- Contribution cells -->
+<rect class="c g" x="34" y="24" width="13" height="13" rx="2.5" fill="#0e4429" style="animation-delay:0s"/>
+<rect class="c g" x="34" y="40" width="13" height="13" rx="2.5" fill="#006d32" style="animation-delay:.036s"/>
+<rect class="c g" x="34" y="56" width="13" height="13" rx="2.5" fill="#006d32" style="animation-delay:.072s"/>
+<rect class="c g" x="34" y="72" width="13" height="13" rx="2.5" fill="#006d32" style="animation-delay:.107s"/>
+<rect class="c g" x="34" y="88" width="13" height="13" rx="2.5" fill="#006d32" style="animation-delay:.143s"/>
+<rect class="c g" x="34" y="104" width="13" height="13" rx="2.5" fill="#0e4429" style="animation-delay:.179s"/>
+<rect class="c g" x="34" y="120" width="13" height="13" rx="2.5" fill="#0e4429" style="animation-delay:.215s"/>
+
+<rect class="c g" x="50" y="24" width="13" height="13" rx="2.5" fill="#0e4429" style="animation-delay:.065s"/>
+<rect class="c g" x="50" y="40" width="13" height="13" rx="2.5" fill="#0e4429" style="animation-delay:.101s"/>
+<rect class="c g" x="50" y="56" width="13" height="13" rx="2.5" fill="#0e4429" style="animation-delay:.137s"/>
+<rect class="c g" x="50" y="72" width="13" height="13" rx="2.5" fill="#006d32" style="animation-delay:.173s"/>
+<rect class="c g" x="50" y="88" width="13" height="13" rx="2.5" fill="#006d32" style="animation-delay:.208s"/>
+<rect class="c g" x="50" y="104" width="13" height="13" rx="2.5" fill="#006d32" style="animation-delay:.244s"/>
+<rect class="c g" x="50" y="120" width="13" height="13" rx="2.5" fill="#0e4429" style="animation-delay:.28s"/>
+
+<rect class="c g" x="66" y="24" width="13" height="13" rx="2.5" fill="#0e4429" style="animation-delay:.13s"/>
+<rect class="c g" x="66" y="40" width="13" height="13" rx="2.5" fill="#006d32" style="animation-delay:.166s"/>
+<rect class="c g" x="66" y="56" width="13" height="13" rx="2.5" fill="#0e4429" style="animation-delay:.202s"/>
+<rect class="c g" x="66" y="72" width="13" height="13" rx="2.5" fill="#006d32" style="animation-delay:.238s"/>
+<rect class="c g" x="66" y="88" width="13" height="13" rx="2.5" fill="#0e4429" style="animation-delay:.273s"/>
+<rect class="c g" x="66" y="104" width="13" height="13" rx="2.5" fill="#006d32" style="animation-delay:.309s"/>
+<rect class="c g" x="66" y="120" width="13" height="13" rx="2.5" fill="#0e4429" style="animation-delay:.345s"/>
+
+<rect class="c g" x="82" y="24" width="13" height="13" rx="2.5" fill="#0e4429" style="animation-delay:.195s"/>
+<rect class="c g" x="82" y="40" width="13" height="13" rx="2.5" fill="#006d32" style="animation-delay:.231s"/>
+<rect class="c g" x="82" y="56" width="13" height="13" rx="2.5" fill="#006d32" style="animation-delay:.267s"/>
+<rect class="c g" x="82" y="72" width="13" height="13" rx="2.5" fill="#006d32" style="animation-delay:.303s"/>
+<rect class="c g" x="82" y="88" width="13" height="13" rx="2.5" fill="#006d32" style="animation-delay:.339s"/>
+<rect class="c g" x="82" y="104" width="13" height="13" rx="2.5" fill="#0e4429" style="animation-delay:.374s"/>
+<rect class="c g" x="82" y="120" width="13" height="13" rx="2.5" fill="#0e4429" style="animation-delay:.41s"/>
+
+<rect class="c g" x="98" y="24" width="13" height="13" rx="2.5" fill="#0e4429" style="animation-delay:.26s"/>
+<rect class="c g" x="98" y="40" width="13" height="13" rx="2.5" fill="#006d32" style="animation-delay:.296s"/>
+<rect class="c g" x="98" y="56" width="13" height="13" rx="2.5" fill="#006d32" style="animation-delay:.332s"/>
+<rect class="c g" x="98" y="72" width="13" height="13" rx="2.5" fill="#006d32" style="animation-delay:.368s"/>
+<rect class="c g" x="98" y="88" width="13" height="13" rx="2.5" fill="#006d32" style="animation-delay:.404s"/>
+<rect class="c g" x="98" y="104" width="13" height="13" rx="2.5" fill="#006d32" style="animation-delay:.439s"/>
+<rect class="c g" x="98" y="120" width="13" height="13" rx="2.5" fill="#0e4429" style="animation-delay:.475s"/>
+
+<rect class="c g" x="114" y="24" width="13" height="13" rx="2.5" fill="#0e4429" style="animation-delay:.325s"/>
+<rect class="c g" x="114" y="40" width="13" height="13" rx="2.5" fill="#0e4429" style="animation-delay:.361s"/>
+<rect class="c g" x="114" y="56" width="13" height="13" rx="2.5" fill="#006d32" style="animation-delay:.397s"/>
+<rect class="c g" x="114" y="72" width="13" height="13" rx="2.5" fill="#006d32" style="animation-delay:.433s"/>
+<rect class="c g" x="114" y="88" width="13" height="13" rx="2.5" fill="#006d32" style="animation-delay:.469s"/>
+<rect class="c g" x="114" y="104" width="13" height="13" rx="2.5" fill="#006d32" style="animation-delay:.505s"/>
+<rect class="c g" x="114" y="120" width="13" height="13" rx="2.5" fill="#0e4429" style="animation-delay:.54s"/>
+
+<!-- Continue the remaining SVG cells from your uploaded contribution SVG here -->
+
+</svg>
+
+---
 
 ---
 
