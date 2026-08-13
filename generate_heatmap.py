@@ -100,7 +100,7 @@ def build_svg(grid, month_labels, total_contributions):
         transform-box: fill-box;
         transform-origin: center;
         opacity: 0;
-        animation: pop 0.55s ease-out both;
+        animation: pop 5s ease-out infinite;
       }
 
       .g {
@@ -108,8 +108,8 @@ def build_svg(grid, month_labels, total_contributions):
         transform-origin: center;
         opacity: 0;
         animation:
-          pop 0.55s ease-out both,
-          flash 0.7s ease-out both;
+          pop 5s ease-out infinite,
+          flash 5s ease-out infinite;
       }
 
       @keyframes pop {
@@ -118,14 +118,24 @@ def build_svg(grid, month_labels, total_contributions):
           transform: scale(.2);
         }
 
-        60% {
+        7% {
           opacity: 1;
           transform: scale(1.1);
         }
 
-        100% {
+        11% {
           opacity: 1;
           transform: scale(1);
+        }
+
+        91% {
+          opacity: 1;
+          transform: scale(1);
+        }
+
+        97%, 100% {
+          opacity: 0;
+          transform: scale(.2);
         }
       }
 
@@ -134,8 +144,12 @@ def build_svg(grid, month_labels, total_contributions):
           filter: brightness(2.4);
         }
 
-        45% {
+        8% {
           filter: brightness(2.4);
+        }
+
+        15% {
+          filter: brightness(1);
         }
 
         100% {
