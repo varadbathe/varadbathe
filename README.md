@@ -281,8 +281,6 @@ A responsive Flutter-based e-commerce application with a dynamic product catalog
 </p>
 
 ---
-
-# 📊 GitHub Analytics
 # 📊 GitHub Analytics
 
 <p align="center">
