@@ -342,8 +342,9 @@ A responsive Flutter-based e-commerce application featuring a dynamic product ca
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/varadbathe/varadbathe/output/github-contribution-grid-snake.svg"
-    alt="Animated GitHub contribution snake"
+    src="./contribution-heatmap.svg"
+    width="100%"
+    alt="GitHub Contribution Journey"
   />
 </p>
 
