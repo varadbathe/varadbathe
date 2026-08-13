@@ -145,35 +145,47 @@ A responsive Flutter-based e-commerce application featuring a dynamic product ca
 
 ## 💻 Programming Languages
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python" width="55" alt="Python" />
-  <img src="https://skillicons.dev/icons?i=dart" width="55" alt="Dart" />
-  <img src="https://skillicons.dev/icons?i=javascript" width="55" alt="JavaScript" />
-  <img src="https://skillicons.dev/icons?i=java" width="55" alt="Java" />
-  <img src="https://skillicons.dev/icons?i=cpp" width="55" alt="C++" />
-</p>
-
-<p align="center">
-  <b>Python</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Dart</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>JavaScript</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Java</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>C++</b>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="95">
+      <img src="https://skillicons.dev/icons?i=python" width="48" alt="Python" /><br/>
+      <sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="95">
+      <img src="https://skillicons.dev/icons?i=dart" width="48" alt="Dart" /><br/>
+      <sub><b>Dart</b></sub>
+    </td>
+    <td align="center" width="95">
+      <img src="https://skillicons.dev/icons?i=javascript" width="48" alt="JavaScript" /><br/>
+      <sub><b>JavaScript</b></sub>
+    </td>
+    <td align="center" width="95">
+      <img src="https://skillicons.dev/icons?i=java" width="48" alt="Java" /><br/>
+      <sub><b>Java</b></sub>
+    </td>
+    <td align="center" width="95">
+      <img src="https://skillicons.dev/icons?i=cpp" width="48" alt="C++" /><br/>
+      <sub><b>C++</b></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 📱 Mobile Development & UI/UX
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter" width="55" alt="Flutter" />
-  <img src="https://skillicons.dev/icons?i=figma" width="55" alt="Figma" />
-</p>
-
-<p align="center">
-  <b>Flutter</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Figma</b>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=flutter" width="48" alt="Flutter" /><br/>
+      <sub><b>Flutter</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=figma" width="48" alt="Figma" /><br/>
+      <sub><b>Figma</b></sub>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://img.shields.io/badge/BLoC%2FCubit-111827?style=flat-square" alt="BLoC/Cubit" />
@@ -186,19 +198,26 @@ A responsive Flutter-based e-commerce application featuring a dynamic product ca
 
 ## 🌐 Web & Backend
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react" width="55" alt="React.js" />
-  <img src="https://skillicons.dev/icons?i=nodejs" width="55" alt="Node.js" />
-  <img src="https://skillicons.dev/icons?i=express" width="55" alt="Express.js" />
-  <img src="https://skillicons.dev/icons?i=redux" width="55" alt="Redux" />
-</p>
-
-<p align="center">
-  <b>React.js</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Node.js</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Express.js</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Redux</b>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="95">
+      <img src="https://skillicons.dev/icons?i=react" width="48" alt="React.js" /><br/>
+      <sub><b>React.js</b></sub>
+    </td>
+    <td align="center" width="95">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" alt="Node.js" /><br/>
+      <sub><b>Node.js</b></sub>
+    </td>
+    <td align="center" width="95">
+      <img src="https://skillicons.dev/icons?i=express" width="48" alt="Express.js" /><br/>
+      <sub><b>Express.js</b></sub>
+    </td>
+    <td align="center" width="95">
+      <img src="https://skillicons.dev/icons?i=redux" width="48" alt="Redux" /><br/>
+      <sub><b>Redux</b></sub>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://img.shields.io/badge/REST%20APIs-111827?style=flat-square" alt="REST APIs" />
@@ -210,15 +229,18 @@ A responsive Flutter-based e-commerce application featuring a dynamic product ca
 
 ## 🔥 Firebase & Cloud
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=firebase" width="55" alt="Firebase" />
-  <img src="https://skillicons.dev/icons?i=netlify" width="55" alt="Netlify" />
-</p>
-
-<p align="center">
-  <b>Firebase</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Netlify</b>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=firebase" width="48" alt="Firebase" /><br/>
+      <sub><b>Firebase</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=netlify" width="48" alt="Netlify" /><br/>
+      <sub><b>Netlify</b></sub>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Firebase%20Authentication-111827?style=flat-square" alt="Firebase Authentication" />
@@ -234,13 +256,14 @@ A responsive Flutter-based e-commerce application featuring a dynamic product ca
 
 ## 🗄️ Databases & State Management
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=sqlite" width="55" alt="SQLite" />
-</p>
-
-<p align="center">
-  <b>SQLite</b>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=sqlite" width="48" alt="SQLite" /><br/>
+      <sub><b>SQLite</b></sub>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Firestore-111827?style=flat-square" alt="Firestore" />
@@ -253,19 +276,26 @@ A responsive Flutter-based e-commerce application featuring a dynamic product ca
 
 ## 🔧 Development & Testing
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git" width="55" alt="Git" />
-  <img src="https://skillicons.dev/icons?i=github" width="55" alt="GitHub" />
-  <img src="https://skillicons.dev/icons?i=gitlab" width="55" alt="GitLab" />
-  <img src="https://skillicons.dev/icons?i=postman" width="55" alt="Postman" />
-</p>
-
-<p align="center">
-  <b>Git</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>GitHub</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>GitLab</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Postman</b>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="95">
+      <img src="https://skillicons.dev/icons?i=git" width="48" alt="Git" /><br/>
+      <sub><b>Git</b></sub>
+    </td>
+    <td align="center" width="95">
+      <img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub" /><br/>
+      <sub><b>GitHub</b></sub>
+    </td>
+    <td align="center" width="95">
+      <img src="https://skillicons.dev/icons?i=gitlab" width="48" alt="GitLab" /><br/>
+      <sub><b>GitLab</b></sub>
+    </td>
+    <td align="center" width="95">
+      <img src="https://skillicons.dev/icons?i=postman" width="48" alt="Postman" /><br/>
+      <sub><b>Postman</b></sub>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Google%20Colab-111827?style=flat-square&logo=googlecolab&logoColor=white" alt="Google Colab" />
@@ -276,17 +306,22 @@ A responsive Flutter-based e-commerce application featuring a dynamic product ca
 
 ## 🤖 AI & Automation
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python" width="55" alt="Python" />
-  <img src="https://img.shields.io/badge/Google%20Gemini-111827?style=flat-square&logo=googlegemini&logoColor=white" alt="Google Gemini" />
-  <img src="https://img.shields.io/badge/n8n-111827?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
-</p>
-
-<p align="center">
-  <b>Python</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Google Gemini</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>n8n</b>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=python" width="48" alt="Python" /><br/>
+      <sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://img.shields.io/badge/Google%20Gemini-111827?style=for-the-badge&logo=googlegemini&logoColor=white" height="36" alt="Google Gemini" /><br/>
+      <sub><b>Google Gemini</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://img.shields.io/badge/n8n-111827?style=for-the-badge&logo=n8n&logoColor=white" height="36" alt="n8n" /><br/>
+      <sub><b>n8n</b></sub>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Prompt%20Engineering-111827?style=flat-square" alt="Prompt Engineering" />
