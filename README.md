@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=900&color=667EEA&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Flutter+%7C+Dart+Developer;Backend+%26+Real-Time+Systems;AI-Powered+Application+Builder;Always+Learning+%26+Building+%F0%9F%9A%80" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=900&color=667EEA&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+Flutter+%26+Backend;AI-Powered+Application+Developer;Real-Time+Application+Developer;Always+Learning+%26+Building+%F0%9F%9A%80" alt="Typing introduction" />
 </p>
 
 <p align="center">
@@ -22,161 +22,128 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=667eea&height=2&section=header" width="70%" alt="" />
 </p>
 
-👨‍💻 About Me
+---
 
-I'm an Information Technology Engineering student at NBN Sinhgad School of Engineering, Pune, passionate about building scalable, responsive, and production-oriented applications.
+## 👨‍💻 About Me
 
-My experience spans cross-platform mobile development, full-stack development, backend integrations, real-time systems, Firebase, AI-powered applications, automation, and software testing.
+I'm an **Information Technology Engineering student at NBN Sinhgad School of Engineering, Pune**, passionate about building scalable, responsive, and production-oriented applications.
 
-🎓 B.E. in Information Technology — SPPU
+My experience spans **cross-platform mobile development, full-stack development, backend integrations, real-time systems, Firebase, AI-powered applications, automation, and software testing**.
 
-📱 Cross-platform development with Flutter & Dart
+- 🎓 B.E. in Information Technology — SPPU
+- 📱 Experienced in **Flutter & Dart** cross-platform development
+- 🌐 Building applications with **React.js, JavaScript, Node.js & REST APIs**
+- 🏗️ Interested in **Clean Architecture, Feature-First Architecture & scalable application design**
+- 🔥 Experienced with the **Firebase ecosystem and real-time application features**
+- 🤖 Building AI-powered applications using **Google Gemini**
+- 🔌 Experience with **Socket.IO, third-party APIs, payments, notifications & cloud services**
+- 🧪 Background in **software testing, API testing and quality assurance**
 
-🌐 Web development with React.js & JavaScript
-
-⚙️ Backend development with Node.js, Express.js & REST APIs
-
-🏗️ Clean Architecture & Feature-First Architecture
-
-🔄 Real-time applications using Socket.IO
-
-🔥 Firebase Authentication, Firestore, Cloud Storage, FCM & monitoring
-
-🤖 AI-powered applications using Google Gemini
-
-💳 Payment integration with Razorpay
-
-🗺️ GPS, location services & Google Maps
-
-🧪 Manual, automated, API, functional, regression & integration testing
-
-⚙️ Workflow automation using n8n
+---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3200&pause=1200&color=764BA2&center=true&vCenter=true&width=620&lines=%E2%9A%A1+Building+real-world+products; %F0%9F%A4%96+Exploring+AI+%26+automation; %F0%9F%94%A5+Working+with+real-time+systems; %F0%9F%9A%80+Turning+ideas+into+products" alt="Currently building" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3200&pause=1200&color=764BA2&center=true&vCenter=true&width=620&lines=%E2%9A%A1+Building+real-world+applications;%F0%9F%A4%96+Exploring+AI+%26+automation;%F0%9F%94%A5+Working+with+real-time+systems;%F0%9F%9A%80+Turning+ideas+into+products" alt="Currently building" />
 </p>
 
-💼 Experience
+---
 
-🏥 Full Stack Development Intern — Vedika Health Private Limited
+# 💼 Experience
 
-Feb 2026 – Aug 2026 · Pune, Maharashtra
+### 🏥 Full Stack Development Intern — Vedika Health Private Limited
 
-Developed and maintained cross-platform healthcare applications using Flutter, Dart, React.js and JavaScript
+**Feb 2026 – Aug 2026 · Pune, Maharashtra**
 
-Implemented Clean Architecture, Feature-First Architecture, BLoC/Cubit and Redux
+- Developed and maintained cross-platform healthcare applications using **Flutter, Dart, React.js and JavaScript**
+- Implemented **Clean Architecture, Feature-First Architecture, BLoC/Cubit and Redux**
+- Integrated **Firebase Authentication, Firestore, Cloud Storage, FCM, Crashlytics and Performance Monitoring**
+- Developed real-time healthcare features including **ambulance booking and tracking, chat and video consultation**
+- Worked with **GPS/location services, Google Maps, Socket.IO and REST APIs**
+- Integrated **Razorpay payments**
+- Contributed to deployment using **Git, GitHub, Firebase Hosting, Netlify and Shorebird**
 
-Integrated Firebase Authentication, Firestore, Cloud Storage, FCM, Crashlytics and Performance Monitoring
+---
 
-Developed real-time healthcare features including ambulance booking and tracking, chat and video consultation
+### 📱 Mobile Application Development Intern — Incubators Systems Pvt. Ltd.
 
-Worked with GPS/location services, Google Maps, Socket.IO and REST APIs
+**Nov 2025 – Feb 2026 · Pune, Maharashtra**
 
-Integrated Razorpay payments
+- Developed high-performance cross-platform mobile applications using **Flutter and Dart**
+- Designed and implemented responsive UI/UX using **Figma**
+- Translated wireframes and design prototypes into reusable Flutter components
+- Integrated **Firebase Authentication, Firestore and Cloud Storage**
+- Implemented **SQLite-based local data persistence** for offline functionality
+- Collaborated in an Agile development environment using **Git, GitHub and GitLab**
 
-Contributed to deployment using Git, GitHub, Firebase Hosting, Netlify and Shorebird
+---
 
-📱 Mobile Application Development Intern — Incubators Systems Pvt. Ltd.
+### 🧪 QA Tools & Test Development Intern — The Subscription
 
-Nov 2025 – Feb 2026 · Pune, Maharashtra
+**May 2025 – Aug 2025 · Pune, Maharashtra**
 
-Developed high-performance cross-platform mobile applications using Flutter and Dart
+- Developed and executed manual and automated test cases
+- Performed **functional, regression, integration and API testing**
+- Created test scenarios, test cases and test documentation
+- Identified, documented and tracked software defects
+- Collaborated with developers to reproduce issues and verify fixes
 
-Designed and implemented responsive UI/UX using Figma
-
-Translated wireframes and design prototypes into reusable Flutter components
-
-Integrated Firebase Authentication, Firestore and Cloud Storage
-
-Implemented SQLite-based local data persistence for offline functionality
-
-Collaborated in an Agile development environment using Git, GitHub and GitLab
-
-🧪 QA Tools & Test Development Intern — The Subscription
-
-May 2025 – Aug 2025 · Pune, Maharashtra
-
-Developed and executed manual and automated test cases
-
-Performed functional, regression, integration and API testing
-
-Created test scenarios, test cases and test documentation
-
-Identified, documented and tracked software defects
-
-Collaborated with developers to reproduce issues and verify fixes
+---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:667eea,100:764ba2&height=70&text=Featured%20Projects&fontSize=28&fontColor=ffffff&animation=fadeIn" alt="Featured Projects" />
 </p>
 
-🚀 Featured Projects
+# 🚀 Featured Projects
 
-🧠 SkillsIgnite — AI-Powered E-Learning Platform
+## 🧠 SkillsIgnite — AI-Powered E-Learning Platform
 
-A cross-platform e-learning application with Student, Company/Recruiter and Admin roles.
+A cross-platform e-learning platform designed around students, recruiters and administrators.
 
-✨ Highlights
+### ✨ Highlights
 
-🔐 Role-based authentication and access control
+- 👨‍🎓 Student, Company/Recruiter and Admin roles
+- 🔐 Role-based authentication and access control
+- 🤖 AI-powered lecture summarization using **Google Gemini**
+- 💡 AI-powered doubt solving
+- 📚 Personalized study planning
+- 🎯 Course recommendations
+- 🎥 Video lessons and learning reels
+- 📝 Digital note-taking
+- 📈 Learning progress tracking
+- 🔥 Streaks and badges
+- 📥 Downloadable study materials
+- 💼 Recruiter job postings and student discovery
+- 🏆 Hackathon management
+- 👥 Team registration and submission tracking
+- 📄 PDF processing
+- 🎙️ Speech-to-Text
+- 🔊 Text-to-Speech
+- 💻 In-app code execution
 
-🤖 AI-powered lecture summarization using Google Gemini
+**Tech:** Flutter · Dart · Firebase · SQLite · Riverpod · Provider · Google Gemini
 
-💡 AI-powered doubt solving
+---
 
-📚 Personalized study planning
+## 👟 E-Commerce Footwear Platform
 
-🎯 Course recommendations
+A responsive Flutter-based e-commerce application featuring a dynamic product catalog and shopping experience.
 
-🎥 Video lessons and learning reels
+### ✨ Highlights
 
-📝 Digital note-taking
+- 🛍️ Dynamic product catalog
+- 🛒 Shopping cart functionality
+- 🔄 Global state management using Provider
+- 📱 Responsive mobile interface
+- 🖥️ Desktop-adaptive interface
+- 📐 Adaptive layouts using LayoutBuilder and GridView
+- ⚡ Synchronized application state across screens
 
-📈 Progress tracking and learning streaks
+**Tech:** Flutter · Dart · Provider · Responsive UI
 
-🏆 Badges and downloadable study materials
+---
 
-💼 Recruiter job postings and student discovery
+# 🛠️ Technologies & Tools
 
-🏆 Hackathon management
-
-👥 Team registration and submission tracking
-
-📄 PDF processing
-
-🎙️ Speech-to-Text
-
-🔊 Text-to-Speech
-
-💻 In-app code execution
-
-Tech: Flutter · Dart · Firebase · SQLite · Riverpod · Provider · Google Gemini
-
-👟 E-Commerce Footwear Platform
-
-A responsive Flutter-based e-commerce application with a dynamic product catalog and shopping cart functionality.
-
-✨ Highlights
-
-🛍️ Dynamic product catalog
-
-🛒 Shopping cart functionality
-
-🔄 Global state management using Provider
-
-📱 Responsive mobile interface
-
-🖥️ Desktop-adaptive interface
-
-📐 Adaptive layouts using LayoutBuilder and GridView
-
-⚡ Synchronized application state across screens
-
-Tech: Flutter · Dart · Provider · Responsive UI
-
-🛠️ Technologies & Tools
-
-💻 Programming Languages
+## 💻 Programming Languages
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python" width="55" alt="Python" />
@@ -194,7 +161,9 @@ Tech: Flutter · Dart · Provider · Responsive UI
   <b>C++</b>
 </p>
 
-📱 Mobile Development & UI/UX
+---
+
+## 📱 Mobile Development & UI/UX
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter" width="55" alt="Flutter" />
@@ -213,7 +182,9 @@ Tech: Flutter · Dart · Provider · Responsive UI
   <img src="https://img.shields.io/badge/Responsive%20UI%2FUX-111827?style=flat-square" alt="Responsive UI/UX" />
 </p>
 
-🌐 Web & Backend
+---
+
+## 🌐 Web & Backend
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react" width="55" alt="React.js" />
@@ -235,7 +206,9 @@ Tech: Flutter · Dart · Provider · Responsive UI
   <img src="https://img.shields.io/badge/Material%20UI-111827?style=flat-square&logo=mui&logoColor=white" alt="Material UI" />
 </p>
 
-🔥 Firebase & Cloud
+---
+
+## 🔥 Firebase & Cloud
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=firebase" width="55" alt="Firebase" />
@@ -257,7 +230,9 @@ Tech: Flutter · Dart · Provider · Responsive UI
   <img src="https://img.shields.io/badge/Shorebird-111827?style=flat-square" alt="Shorebird" />
 </p>
 
-🗄️ Databases & State Management
+---
+
+## 🗄️ Databases & State Management
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=sqlite" width="55" alt="SQLite" />
@@ -274,7 +249,9 @@ Tech: Flutter · Dart · Provider · Responsive UI
   <img src="https://img.shields.io/badge/Redux-111827?style=flat-square&logo=redux&logoColor=white" alt="Redux" />
 </p>
 
-🔧 Development & Testing
+---
+
+## 🔧 Development & Testing
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git" width="55" alt="Git" />
@@ -295,7 +272,9 @@ Tech: Flutter · Dart · Provider · Responsive UI
   <img src="https://img.shields.io/badge/Streamlit-111827?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
 </p>
 
-🤖 AI & Automation
+---
+
+## 🤖 AI & Automation
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python" width="55" alt="Python" />
@@ -317,7 +296,9 @@ Tech: Flutter · Dart · Provider · Responsive UI
   <img src="https://img.shields.io/badge/Workflow%20Automation-111827?style=flat-square" alt="Workflow Automation" />
 </p>
 
-📊 GitHub Analytics
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
   <img
@@ -332,7 +313,9 @@ Tech: Flutter · Dart · Provider · Responsive UI
   />
 </p>
 
-🔥 Contribution Streak
+---
+
+# 🔥 Contribution Streak
 
 <p align="center">
   <img
@@ -341,7 +324,9 @@ Tech: Flutter · Dart · Provider · Responsive UI
   />
 </p>
 
-📈 Contribution Activity
+---
+
+# 📈 Contribution Activity
 
 <p align="center">
   <img
@@ -351,17 +336,29 @@ Tech: Flutter · Dart · Provider · Responsive UI
   />
 </p>
 
-🏆 Achievements & Certifications
+---
 
-🥇 4th Rank Holder — Secured 4th place among 150+ teams in the Super-X Project Competition at Core2Web Technologies for SkillsIgnite
+# 🐍 Contribution Journey
 
-🎓 IIT Bombay Spoken Tutorial — Achieved 90% in C++ Training
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/varadbathe/varadbathe/output/github-contribution-grid-snake.svg"
+    alt="Animated GitHub contribution snake"
+  />
+</p>
 
-🔐 Cyber Security & Ethical Hacking — Bootcamp by LetsUpgrade in collaboration with NSDC and ITM Edutech
+---
 
-🌱 Skills4Future Program — 2026 — Edunet Foundation, AICTE and Shell India
+# 🏆 Achievements & Certifications
 
-🎯 Areas of Interest
+- 🥇 **4th Rank Holder** — Secured 4th place among 150+ teams in the Super-X Project Competition at Core2Web Technologies for SkillsIgnite
+- 🎓 **IIT Bombay Spoken Tutorial** — Achieved 90% in C++ Training
+- 🔐 **Cyber Security & Ethical Hacking** — Bootcamp by LetsUpgrade in collaboration with NSDC and ITM Edutech
+- 🌱 **Skills4Future Program — 2026** — Edunet Foundation, AICTE and Shell India
+
+---
+
+# 🎯 Areas of Interest
 
 <p align="center">
   <img src="https://img.shields.io/badge/Full%20Stack%20Development-111827?style=for-the-badge" alt="Full Stack Development" />
@@ -375,7 +372,9 @@ Tech: Flutter · Dart · Provider · Responsive UI
   <img src="https://img.shields.io/badge/Automation-111827?style=for-the-badge" alt="Automation" />
 </p>
 
-📫 Let's Connect
+---
+
+# 📫 Let's Connect
 
 <p align="center">
   <a href="mailto:varadbathe.nbnstic.it@gmail.com">
@@ -392,6 +391,8 @@ Tech: Flutter · Dart · Provider · Responsive UI
 <p align="center">
   📍 Pune, Maharashtra, India
 </p>
+
+---
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=650&lines=Building+products+%E2%80%A2+Learning+continuously;Solving+real-world+problems+%E2%80%A2+One+project+at+a+time;%F0%9F%9A%80+Let's+build+something+great+together" alt="Footer animation" />
