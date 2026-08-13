@@ -283,10 +283,19 @@ A responsive Flutter-based e-commerce application with a dynamic product catalog
 ---
 
 # 📊 GitHub Analytics
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=varadbathe&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varadbathe&layout=compact&langs_count=8&hide_border=true" height="180" alt="Top Languages" />
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=varadbathe&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github"
+    height="180"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=varadbathe&layout=compact&langs_count=8&hide_border=true"
+    height="180"
+    alt="Top Languages"
+  />
 </p>
 
 ---
@@ -294,7 +303,10 @@ A responsive Flutter-based e-commerce application with a dynamic product catalog
 # 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=varadbathe&hide_border=true" alt="GitHub Contribution Streak" />
+  <img
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=varadbathe&theme=dark&hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
 </p>
 
 ---
@@ -302,10 +314,12 @@ A responsive Flutter-based e-commerce application with a dynamic product catalog
 # 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=varadbathe&hide_border=true&area=true" width="100%" alt="GitHub Contribution Activity Graph" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=varadbathe&hide_border=true&area=true"
+    width="100%"
+    alt="GitHub Contribution Activity Graph"
+  />
 </p>
-
----
 
 # 🏆 Achievements & Certifications
 
