@@ -44,48 +44,6 @@ My experience spans **cross-platform mobile development, full-stack development,
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3200&pause=1200&color=764BA2&center=true&vCenter=true&width=620&lines=%E2%9A%A1+Building+real-world+applications;%F0%9F%A4%96+Exploring+AI+%26+automation;%F0%9F%94%A5+Working+with+real-time+systems;%F0%9F%9A%80+Turning+ideas+into+products" alt="Currently building" />
 </p>
-
----
-
-# 💼 Experience
-
-### 🏥 Full Stack Development Intern — Vedika Health Private Limited
-
-**Feb 2026 – Aug 2026 · Pune, Maharashtra**
-
-- Developed and maintained cross-platform healthcare applications using **Flutter, Dart, React.js and JavaScript**
-- Implemented **Clean Architecture, Feature-First Architecture, BLoC/Cubit and Redux**
-- Integrated **Firebase Authentication, Firestore, Cloud Storage, FCM, Crashlytics and Performance Monitoring**
-- Developed real-time healthcare features including **ambulance booking and tracking, chat and video consultation**
-- Worked with **GPS/location services, Google Maps, Socket.IO and REST APIs**
-- Integrated **Razorpay payments**
-- Contributed to deployment using **Git, GitHub, Firebase Hosting, Netlify and Shorebird**
-
----
-
-### 📱 Mobile Application Development Intern — Incubators Systems Pvt. Ltd.
-
-**Nov 2025 – Feb 2026 · Pune, Maharashtra**
-
-- Developed high-performance cross-platform mobile applications using **Flutter and Dart**
-- Designed and implemented responsive UI/UX using **Figma**
-- Translated wireframes and design prototypes into reusable Flutter components
-- Integrated **Firebase Authentication, Firestore and Cloud Storage**
-- Implemented **SQLite-based local data persistence** for offline functionality
-- Collaborated in an Agile development environment using **Git, GitHub and GitLab**
-
----
-
-### 🧪 QA Tools & Test Development Intern — The Subscription
-
-**May 2025 – Aug 2025 · Pune, Maharashtra**
-
-- Developed and executed manual and automated test cases
-- Performed **functional, regression, integration and API testing**
-- Created test scenarios, test cases and test documentation
-- Identified, documented and tracked software defects
-- Collaborated with developers to reproduce issues and verify fixes
-
 ---
 
 <p align="center">
