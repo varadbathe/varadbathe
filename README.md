@@ -39,12 +39,9 @@ My experience spans **cross-platform mobile development, full-stack development,
 - 🔌 Experience with **Socket.IO, third-party APIs, payments, notifications & cloud services**
 - 🧪 Background in **software testing, API testing and quality assurance**
 
----
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3200&pause=1200&color=764BA2&center=true&vCenter=true&width=620&lines=%E2%9A%A1+Building+real-world+applications;%F0%9F%A4%96+Exploring+AI+%26+automation;%F0%9F%94%A5+Working+with+real-time+systems;%F0%9F%9A%80+Turning+ideas+into+products" alt="Currently building" />
 </p>
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:667eea,100:764ba2&height=70&text=Featured%20Projects&fontSize=28&fontColor=ffffff&animation=fadeIn" alt="Featured Projects" />
