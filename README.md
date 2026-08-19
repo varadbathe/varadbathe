@@ -30,18 +30,20 @@ I'm an **Information Technology Engineering student at NBN Sinhgad School of Eng
 
 My experience spans **cross-platform mobile development, full-stack development, backend integrations, real-time systems, Firebase, AI-powered applications, automation, and software testing**.
 
-- 🎓 B.E. in Information Technology — SPPU
-- 📱 Experienced in **Flutter & Dart** cross-platform development
-- 🌐 Building applications with **React.js, JavaScript, Node.js & REST APIs**
-- 🏗️ Interested in **Clean Architecture, Feature-First Architecture & scalable application design**
-- 🔥 Experienced with the **Firebase ecosystem and real-time application features**
-- 🤖 Building AI-powered applications using **Google Gemini**
-- 🔌 Experience with **Socket.IO, third-party APIs, payments, notifications & cloud services**
-- 🧪 Background in **software testing, API testing and quality assurance**
+* 🎓 B.E. in Information Technology — SPPU
+* 📱 Experienced in **Flutter & Dart** cross-platform development
+* 🌐 Building applications with **React.js, JavaScript, Node.js & REST APIs**
+* 🏗️ Interested in **Clean Architecture, Feature-First Architecture & scalable application design**
+* 🔥 Experienced with the **Firebase ecosystem and real-time application features**
+* 🤖 Building AI-powered applications using **Google Gemini**
+* 🔌 Experience with **Socket.IO, third-party APIs, payments, notifications & cloud services**
+* 🧪 Background in **software testing, API testing and quality assurance**
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3200&pause=1200&color=764BA2&center=true&vCenter=true&width=620&lines=%E2%9A%A1+Building+real-world+applications;%F0%9F%A4%96+Exploring+AI+%26+automation;%F0%9F%94%A5+Working+with+real-time+systems;%F0%9F%9A%80+Turning+ideas+into+products" alt="Currently building" />
 </p>
+
+---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:667eea,100:764ba2&height=70&text=Featured%20Projects&fontSize=28&fontColor=ffffff&animation=fadeIn" alt="Featured Projects" />
@@ -55,24 +57,24 @@ A cross-platform e-learning platform designed around students, recruiters and ad
 
 ### ✨ Highlights
 
-- 👨‍🎓 Student, Company/Recruiter and Admin roles
-- 🔐 Role-based authentication and access control
-- 🤖 AI-powered lecture summarization using **Google Gemini**
-- 💡 AI-powered doubt solving
-- 📚 Personalized study planning
-- 🎯 Course recommendations
-- 🎥 Video lessons and learning reels
-- 📝 Digital note-taking
-- 📈 Learning progress tracking
-- 🔥 Streaks and badges
-- 📥 Downloadable study materials
-- 💼 Recruiter job postings and student discovery
-- 🏆 Hackathon management
-- 👥 Team registration and submission tracking
-- 📄 PDF processing
-- 🎙️ Speech-to-Text
-- 🔊 Text-to-Speech
-- 💻 In-app code execution
+* 👨‍🎓 Student, Company/Recruiter and Admin roles
+* 🔐 Role-based authentication and access control
+* 🤖 AI-powered lecture summarization using **Google Gemini**
+* 💡 AI-powered doubt solving
+* 📚 Personalized study planning
+* 🎯 Course recommendations
+* 🎥 Video lessons and learning reels
+* 📝 Digital note-taking
+* 📈 Learning progress tracking
+* 🔥 Streaks and badges
+* 📥 Downloadable study materials
+* 💼 Recruiter job postings and student discovery
+* 🏆 Hackathon management
+* 👥 Team registration and submission tracking
+* 📄 PDF processing
+* 🎙️ Speech-to-Text
+* 🔊 Text-to-Speech
+* 💻 In-app code execution
 
 **Tech:** Flutter · Dart · Firebase · SQLite · Riverpod · Provider · Google Gemini
 
@@ -84,13 +86,13 @@ A responsive Flutter-based e-commerce application featuring a dynamic product ca
 
 ### ✨ Highlights
 
-- 🛍️ Dynamic product catalog
-- 🛒 Shopping cart functionality
-- 🔄 Global state management using Provider
-- 📱 Responsive mobile interface
-- 🖥️ Desktop-adaptive interface
-- 📐 Adaptive layouts using LayoutBuilder and GridView
-- ⚡ Synchronized application state across screens
+* 🛍️ Dynamic product catalog
+* 🛒 Shopping cart functionality
+* 🔄 Global state management using Provider
+* 📱 Responsive mobile interface
+* 🖥️ Desktop-adaptive interface
+* 📐 Adaptive layouts using LayoutBuilder and GridView
+* ⚡ Synchronized application state across screens
 
 **Tech:** Flutter · Dart · Provider · Responsive UI
 
@@ -307,10 +309,10 @@ A responsive Flutter-based e-commerce application featuring a dynamic product ca
 
 # 🏆 Achievements & Certifications
 
-- 🥇 **4th Rank Holder** — Secured 4th place among 150+ teams in the Super-X Project Competition at Core2Web Technologies for SkillsIgnite
-- 🎓 **IIT Bombay Spoken Tutorial** — Achieved 90% in C++ Training
-- 🔐 **Cyber Security & Ethical Hacking** — Bootcamp by LetsUpgrade in collaboration with NSDC and ITM Edutech
-- 🌱 **Skills4Future Program — 2026** — Edunet Foundation, AICTE and Shell India
+* 🥇 **4th Rank Holder** — Secured 4th place among 150+ teams in the Super-X Project Competition at Core2Web Technologies for SkillsIgnite
+* 🎓 **IIT Bombay Spoken Tutorial** — Achieved 90% in C++ Training
+* 🔐 **Cyber Security & Ethical Hacking** — Bootcamp by LetsUpgrade in collaboration with NSDC and ITM Edutech
+* 🌱 **Skills4Future Program — 2026** — Edunet Foundation, AICTE and Shell India
 
 ---
 
