@@ -79,7 +79,7 @@
 </style>
 <rect class="bg" width="802" height="175" rx="10" stroke="#30363d" stroke-width="1"/>
 <text x="35" y="24" class="title">Contribution Journey</text>
-<text x="777" y="24" class="subtitle" text-anchor="end">375 contributions in the last year</text>
+<text x="777" y="24" class="subtitle" text-anchor="end">386 contributions in the last year</text>
 <text x="35" y="34" class="lbl">Aug</text>
 <text x="63" y="34" class="lbl">Sep</text>
 <text x="119" y="34" class="lbl">Oct</text>
@@ -328,11 +328,11 @@
 <rect class="c" x="483" y="112" width="11" height="11" rx="2.5" ry="2.5" fill="#161b22" style="animation-delay: 0.774s;"><title>No contributions on April 10th.</title></rect>
 <rect class="g" x="483" y="126" width="11" height="11" rx="2.5" ry="2.5" fill="#006d32" style="animation-delay: 0.778s;"><title>4 contributions on April 11th.</title></rect>
 <rect class="c" x="497" y="42" width="11" height="11" rx="2.5" ry="2.5" fill="#161b22" style="animation-delay: 0.776s;"><title>No contributions on April 12th.</title></rect>
-<rect class="g" x="497" y="56" width="11" height="11" rx="2.5" ry="2.5" fill="#006d32" style="animation-delay: 0.78s;"><title>3 contributions on April 13th.</title></rect>
-<rect class="g" x="497" y="70" width="11" height="11" rx="2.5" ry="2.5" fill="#006d32" style="animation-delay: 0.784s;"><title>3 contributions on April 14th.</title></rect>
+<rect class="g" x="497" y="56" width="11" height="11" rx="2.5" ry="2.5" fill="#0e4429" style="animation-delay: 0.78s;"><title>3 contributions on April 13th.</title></rect>
+<rect class="g" x="497" y="70" width="11" height="11" rx="2.5" ry="2.5" fill="#0e4429" style="animation-delay: 0.784s;"><title>3 contributions on April 14th.</title></rect>
 <rect class="g" x="497" y="84" width="11" height="11" rx="2.5" ry="2.5" fill="#006d32" style="animation-delay: 0.788s;"><title>4 contributions on April 15th.</title></rect>
-<rect class="g" x="497" y="98" width="11" height="11" rx="2.5" ry="2.5" fill="#006d32" style="animation-delay: 0.792s;"><title>3 contributions on April 16th.</title></rect>
-<rect class="g" x="497" y="112" width="11" height="11" rx="2.5" ry="2.5" fill="#006d32" style="animation-delay: 0.796s;"><title>3 contributions on April 17th.</title></rect>
+<rect class="g" x="497" y="98" width="11" height="11" rx="2.5" ry="2.5" fill="#0e4429" style="animation-delay: 0.792s;"><title>3 contributions on April 16th.</title></rect>
+<rect class="g" x="497" y="112" width="11" height="11" rx="2.5" ry="2.5" fill="#0e4429" style="animation-delay: 0.796s;"><title>3 contributions on April 17th.</title></rect>
 <rect class="g" x="497" y="126" width="11" height="11" rx="2.5" ry="2.5" fill="#0e4429" style="animation-delay: 0.8s;"><title>2 contributions on April 18th.</title></rect>
 <rect class="c" x="511" y="42" width="11" height="11" rx="2.5" ry="2.5" fill="#161b22" style="animation-delay: 0.798s;"><title>No contributions on April 19th.</title></rect>
 <rect class="g" x="511" y="56" width="11" height="11" rx="2.5" ry="2.5" fill="#0e4429" style="animation-delay: 0.802s;"><title>2 contributions on April 20th.</title></rect>
@@ -359,19 +359,19 @@
 <rect class="c" x="553" y="56" width="11" height="11" rx="2.5" ry="2.5" fill="#161b22" style="animation-delay: 0.868s;"><title>No contributions on May 11th.</title></rect>
 <rect class="g" x="553" y="70" width="11" height="11" rx="2.5" ry="2.5" fill="#0e4429" style="animation-delay: 0.872s;"><title>2 contributions on May 12th.</title></rect>
 <rect class="g" x="553" y="84" width="11" height="11" rx="2.5" ry="2.5" fill="#006d32" style="animation-delay: 0.876s;"><title>4 contributions on May 13th.</title></rect>
-<rect class="g" x="553" y="98" width="11" height="11" rx="2.5" ry="2.5" fill="#26a641" style="animation-delay: 0.88s;"><title>6 contributions on May 14th.</title></rect>
+<rect class="g" x="553" y="98" width="11" height="11" rx="2.5" ry="2.5" fill="#006d32" style="animation-delay: 0.88s;"><title>6 contributions on May 14th.</title></rect>
 <rect class="c" x="553" y="112" width="11" height="11" rx="2.5" ry="2.5" fill="#161b22" style="animation-delay: 0.884s;"><title>No contributions on May 15th.</title></rect>
 <rect class="c" x="553" y="126" width="11" height="11" rx="2.5" ry="2.5" fill="#161b22" style="animation-delay: 0.888s;"><title>No contributions on May 16th.</title></rect>
 <rect class="g" x="567" y="42" width="11" height="11" rx="2.5" ry="2.5" fill="#0e4429" style="animation-delay: 0.886s;"><title>1 contribution on May 17th.</title></rect>
-<rect class="g" x="567" y="56" width="11" height="11" rx="2.5" ry="2.5" fill="#26a641" style="animation-delay: 0.89s;"><title>6 contributions on May 18th.</title></rect>
+<rect class="g" x="567" y="56" width="11" height="11" rx="2.5" ry="2.5" fill="#006d32" style="animation-delay: 0.89s;"><title>6 contributions on May 18th.</title></rect>
 <rect class="g" x="567" y="70" width="11" height="11" rx="2.5" ry="2.5" fill="#006d32" style="animation-delay: 0.894s;"><title>4 contributions on May 19th.</title></rect>
 <rect class="g" x="567" y="84" width="11" height="11" rx="2.5" ry="2.5" fill="#0e4429" style="animation-delay: 0.898s;"><title>2 contributions on May 20th.</title></rect>
 <rect class="g" x="567" y="98" width="11" height="11" rx="2.5" ry="2.5" fill="#006d32" style="animation-delay: 0.902s;"><title>4 contributions on May 21st.</title></rect>
 <rect class="g" x="567" y="112" width="11" height="11" rx="2.5" ry="2.5" fill="#39d353" style="animation-delay: 0.906s;"><title>12 contributions on May 22nd.</title></rect>
-<rect class="g" x="567" y="126" width="11" height="11" rx="2.5" ry="2.5" fill="#39d353" style="animation-delay: 0.91s;"><title>10 contributions on May 23rd.</title></rect>
+<rect class="g" x="567" y="126" width="11" height="11" rx="2.5" ry="2.5" fill="#26a641" style="animation-delay: 0.91s;"><title>10 contributions on May 23rd.</title></rect>
 <rect class="c" x="581" y="42" width="11" height="11" rx="2.5" ry="2.5" fill="#161b22" style="animation-delay: 0.908s;"><title>No contributions on May 24th.</title></rect>
 <rect class="c" x="581" y="56" width="11" height="11" rx="2.5" ry="2.5" fill="#161b22" style="animation-delay: 0.912s;"><title>No contributions on May 25th.</title></rect>
-<rect class="g" x="581" y="70" width="11" height="11" rx="2.5" ry="2.5" fill="#39d353" style="animation-delay: 0.916s;"><title>10 contributions on May 26th.</title></rect>
+<rect class="g" x="581" y="70" width="11" height="11" rx="2.5" ry="2.5" fill="#26a641" style="animation-delay: 0.916s;"><title>10 contributions on May 26th.</title></rect>
 <rect class="g" x="581" y="84" width="11" height="11" rx="2.5" ry="2.5" fill="#0e4429" style="animation-delay: 0.92s;"><title>2 contributions on May 27th.</title></rect>
 <rect class="g" x="581" y="98" width="11" height="11" rx="2.5" ry="2.5" fill="#006d32" style="animation-delay: 0.924s;"><title>5 contributions on May 28th.</title></rect>
 <rect class="g" x="581" y="112" width="11" height="11" rx="2.5" ry="2.5" fill="#006d32" style="animation-delay: 0.928s;"><title>4 contributions on May 29th.</title></rect>
@@ -405,7 +405,7 @@
 <rect class="g" x="637" y="112" width="11" height="11" rx="2.5" ry="2.5" fill="#39d353" style="animation-delay: 1.016s;"><title>11 contributions on June 26th.</title></rect>
 <rect class="g" x="637" y="126" width="11" height="11" rx="2.5" ry="2.5" fill="#0e4429" style="animation-delay: 1.02s;"><title>2 contributions on June 27th.</title></rect>
 <rect class="c" x="651" y="42" width="11" height="11" rx="2.5" ry="2.5" fill="#161b22" style="animation-delay: 1.018s;"><title>No contributions on June 28th.</title></rect>
-<rect class="g" x="651" y="56" width="11" height="11" rx="2.5" ry="2.5" fill="#006d32" style="animation-delay: 1.022s;"><title>3 contributions on June 29th.</title></rect>
+<rect class="g" x="651" y="56" width="11" height="11" rx="2.5" ry="2.5" fill="#0e4429" style="animation-delay: 1.022s;"><title>3 contributions on June 29th.</title></rect>
 <rect class="g" x="651" y="70" width="11" height="11" rx="2.5" ry="2.5" fill="#0e4429" style="animation-delay: 1.026s;"><title>2 contributions on June 30th.</title></rect>
 <rect class="g" x="651" y="84" width="11" height="11" rx="2.5" ry="2.5" fill="#006d32" style="animation-delay: 1.03s;"><title>4 contributions on July 1st.</title></rect>
 <rect class="g" x="651" y="98" width="11" height="11" rx="2.5" ry="2.5" fill="#0e4429" style="animation-delay: 1.034s;"><title>2 contributions on July 2nd.</title></rect>
@@ -427,9 +427,9 @@
 <rect class="g" x="679" y="126" width="11" height="11" rx="2.5" ry="2.5" fill="#39d353" style="animation-delay: 1.086s;"><title>13 contributions on July 18th.</title></rect>
 <rect class="c" x="693" y="42" width="11" height="11" rx="2.5" ry="2.5" fill="#161b22" style="animation-delay: 1.084s;"><title>No contributions on July 19th.</title></rect>
 <rect class="g" x="693" y="56" width="11" height="11" rx="2.5" ry="2.5" fill="#0e4429" style="animation-delay: 1.088s;"><title>2 contributions on July 20th.</title></rect>
-<rect class="g" x="693" y="70" width="11" height="11" rx="2.5" ry="2.5" fill="#26a641" style="animation-delay: 1.092s;"><title>6 contributions on July 21st.</title></rect>
-<rect class="g" x="693" y="84" width="11" height="11" rx="2.5" ry="2.5" fill="#26a641" style="animation-delay: 1.096s;"><title>6 contributions on July 22nd.</title></rect>
-<rect class="g" x="693" y="98" width="11" height="11" rx="2.5" ry="2.5" fill="#26a641" style="animation-delay: 1.1s;"><title>7 contributions on July 23rd.</title></rect>
+<rect class="g" x="693" y="70" width="11" height="11" rx="2.5" ry="2.5" fill="#006d32" style="animation-delay: 1.092s;"><title>6 contributions on July 21st.</title></rect>
+<rect class="g" x="693" y="84" width="11" height="11" rx="2.5" ry="2.5" fill="#006d32" style="animation-delay: 1.096s;"><title>6 contributions on July 22nd.</title></rect>
+<rect class="g" x="693" y="98" width="11" height="11" rx="2.5" ry="2.5" fill="#006d32" style="animation-delay: 1.1s;"><title>7 contributions on July 23rd.</title></rect>
 <rect class="c" x="693" y="112" width="11" height="11" rx="2.5" ry="2.5" fill="#161b22" style="animation-delay: 1.104s;"><title>No contributions on July 24th.</title></rect>
 <rect class="c" x="693" y="126" width="11" height="11" rx="2.5" ry="2.5" fill="#161b22" style="animation-delay: 1.108s;"><title>No contributions on July 25th.</title></rect>
 <rect class="c" x="707" y="42" width="11" height="11" rx="2.5" ry="2.5" fill="#161b22" style="animation-delay: 1.106s;"><title>No contributions on July 26th.</title></rect>
@@ -437,7 +437,7 @@
 <rect class="c" x="707" y="70" width="11" height="11" rx="2.5" ry="2.5" fill="#161b22" style="animation-delay: 1.114s;"><title>No contributions on July 28th.</title></rect>
 <rect class="c" x="707" y="84" width="11" height="11" rx="2.5" ry="2.5" fill="#161b22" style="animation-delay: 1.118s;"><title>No contributions on July 29th.</title></rect>
 <rect class="g" x="707" y="98" width="11" height="11" rx="2.5" ry="2.5" fill="#006d32" style="animation-delay: 1.122s;"><title>4 contributions on July 30th.</title></rect>
-<rect class="g" x="707" y="112" width="11" height="11" rx="2.5" ry="2.5" fill="#26a641" style="animation-delay: 1.126s;"><title>6 contributions on July 31st.</title></rect>
+<rect class="g" x="707" y="112" width="11" height="11" rx="2.5" ry="2.5" fill="#006d32" style="animation-delay: 1.126s;"><title>6 contributions on July 31st.</title></rect>
 <rect class="g" x="707" y="126" width="11" height="11" rx="2.5" ry="2.5" fill="#0e4429" style="animation-delay: 1.13s;"><title>2 contributions on August 1st.</title></rect>
 <rect class="c" x="721" y="42" width="11" height="11" rx="2.5" ry="2.5" fill="#161b22" style="animation-delay: 1.128s;"><title>No contributions on August 2nd.</title></rect>
 <rect class="c" x="721" y="56" width="11" height="11" rx="2.5" ry="2.5" fill="#161b22" style="animation-delay: 1.132s;"><title>No contributions on August 3rd.</title></rect>
@@ -449,19 +449,20 @@
 <rect class="c" x="735" y="42" width="11" height="11" rx="2.5" ry="2.5" fill="#161b22" style="animation-delay: 1.15s;"><title>No contributions on August 9th.</title></rect>
 <rect class="g" x="735" y="56" width="11" height="11" rx="2.5" ry="2.5" fill="#0e4429" style="animation-delay: 1.154s;"><title>2 contributions on August 10th.</title></rect>
 <rect class="c" x="735" y="70" width="11" height="11" rx="2.5" ry="2.5" fill="#161b22" style="animation-delay: 1.158s;"><title>No contributions on August 11th.</title></rect>
-<rect class="g" x="735" y="84" width="11" height="11" rx="2.5" ry="2.5" fill="#26a641" style="animation-delay: 1.162s;"><title>7 contributions on August 12th.</title></rect>
+<rect class="g" x="735" y="84" width="11" height="11" rx="2.5" ry="2.5" fill="#006d32" style="animation-delay: 1.162s;"><title>7 contributions on August 12th.</title></rect>
 <rect class="g" x="735" y="98" width="11" height="11" rx="2.5" ry="2.5" fill="#39d353" style="animation-delay: 1.166s;"><title>37 contributions on August 13th.</title></rect>
 <rect class="g" x="735" y="112" width="11" height="11" rx="2.5" ry="2.5" fill="#0e4429" style="animation-delay: 1.17s;"><title>1 contribution on August 14th.</title></rect>
 <rect class="g" x="735" y="126" width="11" height="11" rx="2.5" ry="2.5" fill="#006d32" style="animation-delay: 1.174s;"><title>4 contributions on August 15th.</title></rect>
 <rect class="g" x="749" y="42" width="11" height="11" rx="2.5" ry="2.5" fill="#0e4429" style="animation-delay: 1.172s;"><title>1 contribution on August 16th.</title></rect>
 <rect class="g" x="749" y="56" width="11" height="11" rx="2.5" ry="2.5" fill="#0e4429" style="animation-delay: 1.176s;"><title>2 contributions on August 17th.</title></rect>
-<rect class="g" x="749" y="70" width="11" height="11" rx="2.5" ry="2.5" fill="#26a641" style="animation-delay: 1.18s;"><title>6 contributions on August 18th.</title></rect>
-<rect class="g" x="749" y="84" width="11" height="11" rx="2.5" ry="2.5" fill="#39d353" style="animation-delay: 1.184s;"><title>13 contributions on August 19th.</title></rect>
-<rect class="g" x="749" y="98" width="11" height="11" rx="2.5" ry="2.5" fill="#006d32" style="animation-delay: 1.188s;"><title>4 contributions on August 20th.</title></rect>
-<rect class="g" x="749" y="112" width="11" height="11" rx="2.5" ry="2.5" fill="#006d32" style="animation-delay: 1.192s;"><title>3 contributions on August 21st.</title></rect>
-<rect class="g" x="749" y="126" width="11" height="11" rx="2.5" ry="2.5" fill="#006d32" style="animation-delay: 1.196s;"><title>3 contributions on August 22nd.</title></rect>
-<rect class="g" x="763" y="42" width="11" height="11" rx="2.5" ry="2.5" fill="#26a641" style="animation-delay: 1.194s;"><title>6 contributions on August 23rd.</title></rect>
-<rect class="c" x="763" y="56" width="11" height="11" rx="2.5" ry="2.5" fill="#161b22" style="animation-delay: 1.198s;"><title>No contributions on August 24th.</title></rect>
+<rect class="g" x="749" y="70" width="11" height="11" rx="2.5" ry="2.5" fill="#006d32" style="animation-delay: 1.18s;"><title>6 contributions on August 18th.</title></rect>
+<rect class="g" x="749" y="84" width="11" height="11" rx="2.5" ry="2.5" fill="#39d353" style="animation-delay: 1.184s;"><title>14 contributions on August 19th.</title></rect>
+<rect class="g" x="749" y="98" width="11" height="11" rx="2.5" ry="2.5" fill="#006d32" style="animation-delay: 1.188s;"><title>5 contributions on August 20th.</title></rect>
+<rect class="g" x="749" y="112" width="11" height="11" rx="2.5" ry="2.5" fill="#006d32" style="animation-delay: 1.192s;"><title>4 contributions on August 21st.</title></rect>
+<rect class="g" x="749" y="126" width="11" height="11" rx="2.5" ry="2.5" fill="#006d32" style="animation-delay: 1.196s;"><title>4 contributions on August 22nd.</title></rect>
+<rect class="g" x="763" y="42" width="11" height="11" rx="2.5" ry="2.5" fill="#006d32" style="animation-delay: 1.194s;"><title>6 contributions on August 23rd.</title></rect>
+<rect class="g" x="763" y="56" width="11" height="11" rx="2.5" ry="2.5" fill="#006d32" style="animation-delay: 1.198s;"><title>7 contributions on August 24th.</title></rect>
+<rect class="c" x="763" y="70" width="11" height="11" rx="2.5" ry="2.5" fill="#161b22" style="animation-delay: 1.202s;"><title>No contributions on August 25th.</title></rect>
 <text x="639" y="167" class="lbl" text-anchor="end">Less</text>
 <rect class="c" x="647" y="158" width="11" height="11" rx="2.5" ry="2.5" fill="#161b22" style="animation-delay: 1.2s;"/>
 <rect class="c" x="661" y="158" width="11" height="11" rx="2.5" ry="2.5" fill="#0e4429" style="animation-delay: 1.2s;"/>
