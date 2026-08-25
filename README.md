@@ -255,23 +255,6 @@ A responsive Flutter-based e-commerce application featuring a dynamic product ca
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img
-    src="https://github-stats-extended.vercel.app/api?username=varadbathe&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github"
-    height="180"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=varadbathe&layout=compact&langs_count=8&hide_border=true"
-    height="180"
-    alt="Top Languages"
-  />
-</p>
-
----
-
 # 🔥 Contribution Streak
 
 <p align="center">
