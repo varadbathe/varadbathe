@@ -263,19 +263,6 @@ A responsive Flutter-based e-commerce application featuring a dynamic product ca
     alt="GitHub Contribution Streak"
   />
 </p>
-
----
-
-# 📈 Contribution Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=varadbathe&hide_border=true&area=true"
-    width="100%"
-    alt="GitHub Contribution Activity Graph"
-  />
-</p>
-
 ---
 
 # 🐍 Contribution Journey
