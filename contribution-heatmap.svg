@@ -79,7 +79,7 @@
 </style>
 <rect class="bg" width="802" height="175" rx="10" stroke="#30363d" stroke-width="1"/>
 <text x="35" y="24" class="title">Contribution Journey</text>
-<text x="777" y="24" class="subtitle" text-anchor="end">388 contributions in the last year</text>
+<text x="777" y="24" class="subtitle" text-anchor="end">391 contributions in the last year</text>
 <text x="35" y="34" class="lbl">Aug</text>
 <text x="63" y="34" class="lbl">Sep</text>
 <text x="119" y="34" class="lbl">Oct</text>
@@ -462,7 +462,8 @@
 <rect class="g" x="749" y="126" width="11" height="11" rx="2.5" ry="2.5" fill="#006d32" style="animation-delay: 1.196s;"><title>4 contributions on August 22nd.</title></rect>
 <rect class="g" x="763" y="42" width="11" height="11" rx="2.5" ry="2.5" fill="#006d32" style="animation-delay: 1.194s;"><title>6 contributions on August 23rd.</title></rect>
 <rect class="g" x="763" y="56" width="11" height="11" rx="2.5" ry="2.5" fill="#006d32" style="animation-delay: 1.198s;"><title>7 contributions on August 24th.</title></rect>
-<rect class="g" x="763" y="70" width="11" height="11" rx="2.5" ry="2.5" fill="#0e4429" style="animation-delay: 1.202s;"><title>2 contributions on August 25th.</title></rect>
+<rect class="g" x="763" y="70" width="11" height="11" rx="2.5" ry="2.5" fill="#006d32" style="animation-delay: 1.202s;"><title>5 contributions on August 25th.</title></rect>
+<rect class="c" x="763" y="84" width="11" height="11" rx="2.5" ry="2.5" fill="#161b22" style="animation-delay: 1.206s;"><title>No contributions on August 26th.</title></rect>
 <text x="639" y="167" class="lbl" text-anchor="end">Less</text>
 <rect class="c" x="647" y="158" width="11" height="11" rx="2.5" ry="2.5" fill="#161b22" style="animation-delay: 1.2s;"/>
 <rect class="c" x="661" y="158" width="11" height="11" rx="2.5" ry="2.5" fill="#0e4429" style="animation-delay: 1.2s;"/>
